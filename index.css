@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    background-color: rgb(39, 39, 39);
+    color: rgb(224, 226, 228);
+    font-family: 'Courier New', Courier, monospace;
+    align-items: center;
+    flex-direction: column;
+}
+
+#explanation {
+    display: flex;
+    width: 35vw;
+}
